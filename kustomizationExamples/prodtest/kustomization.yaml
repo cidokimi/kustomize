@@ -1,0 +1,7 @@
+bases:
+- ../base
+images:
+- name: nginx
+  newName: my-nexus-registry/nginx
+  newTag: latest
+namePrefix: prodtest-

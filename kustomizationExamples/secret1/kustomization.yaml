@@ -1,0 +1,5 @@
+secretGenerator:
+- name: secret-1
+  literals:
+  - username=cigdem
+  - password=1903

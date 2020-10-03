@@ -1,0 +1,4 @@
+configMapGenerator:
+- name: configmap-2
+  files:
+  - application.properties

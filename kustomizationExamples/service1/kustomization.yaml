@@ -1,0 +1,4 @@
+namePrefix: dev-
+nameSuffix: "-1.0.0.0"
+resources:
+- service.yaml
